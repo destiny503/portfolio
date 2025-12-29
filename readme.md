@@ -4,7 +4,7 @@
 
 **Location**: Russian Federation  
 **Email**: 503destiny503@gmail.com  
-**Telegram**: art968
+**Telegram**: @art968
 
 ## About me
 
@@ -19,7 +19,7 @@ I am a frontend developer. I study a lot and work. I am highly self-motivated, a
 
 ## Code Examples
 
-**Tree sort**:  
+**Unique test**:  
 Write a function that checks if all letters of a string are unique (case insensitive).
 
 **Solution**
