@@ -57,4 +57,4 @@ console.log(isUnique("Hello"));  // false
 ## Languages
 
 - **Russian**: Native
-- **English**: Elementary
+- **English**: Pre-Intermediate
