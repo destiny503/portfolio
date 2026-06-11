@@ -27,9 +27,8 @@ body {
   position: relative;
   display: flex;
   flex-direction: column;
-  width: 100vw;
-  height: 100vh;
-  justify-content: space-between;
+  width: 100%;
+  min-height: 100vh;
   font-family: "Nunito", sans-serif;
   font-weight: 700;
   font-style: normal;
@@ -91,6 +90,7 @@ body {
   flex-wrap: wrap;
   justify-content: space-around;
   align-items: center;
+  flex: 1;
 }
 
 .main h2,
@@ -101,10 +101,6 @@ body {
 
 section {
   margin-top: 10px;
-}
-
-section:last-child {
-  margin-bottom: 10px;
 }
 
 .about {
